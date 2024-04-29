@@ -23,7 +23,7 @@ formulario.addEventListener('submit', e => {
     }else{
         alerta.textContent = 'Todo bien, iniciando sesion...'
         alerta.classList.add('bg-green-500')
-    }
+    } 
 
     formulario.appendChild(alerta)
 
