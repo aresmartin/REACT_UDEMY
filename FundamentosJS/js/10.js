@@ -5,3 +5,4 @@ const [ , , , , var5] = tecnologias
 
 console.log(var5)
 
+
